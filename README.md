@@ -20,9 +20,9 @@ Der KI-Stammtisch findet online statt. Die Zugangsdaten werden nach der Anmeldun
 
 ## Kontakt
 
-Bei Fragen, Anregungen oder wenn Sie eine Präsentation im Rahmen des KI-Stammtisches halten möchten kontaktieren Sie uns bitte unter
+Bei Fragen, Anregungen oder wenn Sie eine Präsentation im Rahmen des KI-Stammtisches halten möchten kontaktieren Sie uns bitte unter:
 
-- [@](mailto:)
+- [kistammtisch@rundertischgis.de](kistammtisch@rundertischgis.de)
 
 ---
 
